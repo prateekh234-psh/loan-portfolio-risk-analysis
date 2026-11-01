@@ -21,5 +21,3 @@ The script creates `outputs/` containing the synthetic data, summary CSVs and ch
 - This is descriptive analysis, not a lending decision or validated credit-risk model.
 - The generated relationships are illustrative and must not be interpreted as real-world default probabilities.
 
-## Your analysis task
-Run the script, inspect the CSV files, and write 3–5 observations supported by the output. Explain at least one limitation of the dataset.
