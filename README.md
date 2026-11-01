@@ -1,3 +1,7 @@
+# This is a guided beginner learning project.
+
+
+
 # Loan Portfolio Risk Analysis
 
 A beginner-friendly Python project exploring patterns in a **synthetic** loan portfolio.
